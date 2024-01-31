@@ -2,5 +2,5 @@
 # WebApps-F24-Assignment-3
 Assignment 3 - Basic HTML
 
-Hosted at <https://github.com/44-563-Web-Apps-S24/44563-webapps-s24-assignment3-KandikondaShivani/>
+Hosted at <https://44-563-web-apps-s24.github.io/44563-webapps-s24-assignment3-KandikondaShivani/>
 
